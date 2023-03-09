@@ -13,3 +13,4 @@
  - Functional menu & buttons
  - An actual chat function
  - A gallery function for "runner-ups"
+ - Smaller images on desktop, or a desktop-friendly gallery function.
